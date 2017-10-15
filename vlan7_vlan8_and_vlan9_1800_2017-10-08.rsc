@@ -72,6 +72,7 @@
 /ip service set api-ssl disabled=yes
 /ip ssh set strong-crypto=yes
 /lcd pin set pin-number=2356
+/lcd set enabled=no
 /system clock set time-zone-name=America/Toronto
 /tool bandwidth-server set enabled=no
 /tool mac-server set [ find default=yes ] disabled=yes
